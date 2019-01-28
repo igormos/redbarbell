@@ -1931,6 +1931,9 @@ body {
     margin-left: 0 !important;
   }
 }
+.cid-rgked6ckmt .body-item {
+  color: #232323;
+}
 .cid-rgkgMf61ka {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -2088,6 +2091,9 @@ body {
     width: 100% !important;
     margin-left: 0 !important;
   }
+}
+.cid-rgkgNj3bny .body-item {
+  color: #232323;
 }
 .cid-rgkqbA0Mve {
   padding-top: 90px;
@@ -3204,7 +3210,7 @@ body {
   margin-bottom: 2rem;
 }
 .cid-rgmOpPUsfe .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-rgmOpPUsfe a:not([href]):not([tabindex]) {
   color: #fff;
@@ -3221,6 +3227,12 @@ body {
 .cid-rgmOpPUsfe .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-rgmOpPUsfe H2 {
+  color: #b2ccd2;
+}
+.cid-rgmOpPUsfe LABEL {
+  color: #f9f295;
 }
 .cid-rgqju4GTtJ {
   padding-top: 0px;
